@@ -18,7 +18,8 @@ import (
 	"sync"
 	"time"
 
-	"golang.org/x/net/context"
+	//"golang.org/x/net/context"
+	"github.com/labstack/echo/context"
 )
 
 const (
